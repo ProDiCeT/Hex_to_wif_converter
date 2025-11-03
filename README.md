@@ -1,6 +1,6 @@
 🔐 Hex → WIF Converter (Streamlit App)
 
-A simple and secure Streamlit web app to convert a hexadecimal private key into WIF (Wallet Import Format).
+A simple and secure Streamlit web app to convert a hex private key into WIF.
 The app automatically generates both Uncompressed and Compressed WIF versions.
 
 🚀 Features
