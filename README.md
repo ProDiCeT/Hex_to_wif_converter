@@ -5,7 +5,7 @@ The app automatically generates both Uncompressed and Compressed WIF versions.
 
 🚀 Features
 
-Converts any valid hex private key (w/wo 0x)
+Converts any valid hex private key (w or w/o 0x)
 
 Displays both WIF formats instantly
 
