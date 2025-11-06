@@ -11,9 +11,9 @@ Displays both WIF formats instantly
 
 Validates input and warns if key length is incorrect
 
-100% local execution – your private key is never stored or sent anywhere
+100% local execution (your private key is never stored or sent anywhere)
 
-Clean, minimal Streamlit interface
+Minimal Streamlit interface
 
 🧩 Requirements
 
