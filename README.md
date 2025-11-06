@@ -13,7 +13,7 @@ Validates input and warns if key length is incorrect
 
 100% local execution (your private key is never stored or sent anywhere)
 
-Minimal Streamlit interface
+Streamlit interface
 
 🧩 Requirements
 
