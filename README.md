@@ -38,7 +38,7 @@ The checksum is computed using double SHA-256, and the final key is Base58Check-
 🔒 Security note
 
 This app runs entirely on your machine.
-Your private key never leaves your browser — it’s processed locally and not transmitted anywhere.
+Your private key never leaves your browser.
 Use test keys when experimenting.
 
 🧠 Author
