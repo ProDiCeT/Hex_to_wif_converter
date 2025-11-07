@@ -29,7 +29,7 @@ Then open the local URL shown in your terminal
 
 ⚙️ How it works
 
-Prefix 0x80 is added to the private key (Bitcoin mainnet format).
+Prefix 0x80 is added to the private key.
 
 If the compressed option is enabled, 01 is appended.
 
