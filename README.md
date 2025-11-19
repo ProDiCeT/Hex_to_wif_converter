@@ -11,7 +11,7 @@ Displays both WIF formats instantly
 
 Validates input and warns if key length is incorrect
 
-100% local execution 
+100% local
 
 Streamlit interface
 
